@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 645f63a09502cd34b8299bd25edb4575
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: fb1282dfdfa2bb8498a73da90e2199d6, type: 3}
+  pixelsPerUnit: 8
+  ignoreFirstAnimation: 0
+  generatePNG: 1
